@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andredevic/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andredev.fe@gmail.com) 
 
-![Minha Imagem](https://ibb.co/hJtKHky1)
+<a href="https://ibb.co/hJtKHky1"><img src="https://i.ibb.co/hJtKHky1/pc.jpg" alt="pc" border="0"></a>
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andredevic&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredevic&layout=compact)
