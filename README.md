@@ -8,10 +8,10 @@
       style="border-radius: 50px" src="https://i.ibb.co/hJtKHky1/pc.jpg" alt="pc" border="0">
       
 <ul style="list-style-type: none; margin: 0">
+  <li>📚 Software Engineering Student</li> 
   <li>💻 Backend Developer</li>
-  <li>🚀 Experienced with Node.js, TypeScript, Express, Fastify, and NestJS.</li>
-  <li>📚 Software Engineering Student</li>        
-  <li>🧑🏼‍💻 Currently learning Java and Spring Boot.</li>
+  <li>🚀 Experienced with Node.js, TypeScript, Express, Fastify, and NestJS.</li> 
+  <li>🧑🏼‍💻 Currently learning python.</li>
   <li>🛠 Building RESTful APIs using Clean Architecture, SOLID principles, and the MVC pattern.</li>
 </ul>
 
